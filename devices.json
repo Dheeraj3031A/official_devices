@@ -169,6 +169,13 @@
           "active": true
        },
        {
+          "codename": "pipa",
+          "vendor": "Xiaomi",
+          "model": "Xiaomi Pad 6",
+          "maintainer_name": "Arijit-Saha",
+          "active": true
+       },
+       {
           "codename": "garnet",
           "vendor": "Xiaomi",
           "model": "Redmi Note 13 Pro 5G/Poco X6 5G",
