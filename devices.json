@@ -29,6 +29,13 @@
           "active": true
        },
        {
+          "codename": "beryllium",
+          "vendor": "Xiaomi",
+          "model": "POCO F1",
+          "maintainer_name": "NotDheeraj06",
+          "active": true
+       },
+       {
           "codename": "gta4lwifi",
           "vendor": "Samsung",
           "model": "Galaxy Tab A7",
