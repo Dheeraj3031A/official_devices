@@ -8,14 +8,14 @@
         ],
             "beta": false,
             "available_versions": [
-                       "fourteen"
+                       "fifteen"
                                   ],
             "release": "monthly",
             "device_display_name": "POCO F1",
             "device_display_codename": "beryllium",
-            "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/beryllium/",
-            "version": "fourteen",
+            "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/beryllium/",
+            "version": "fifteen",
             "active": true,
             "customRecoveryRequired": true,
-            "xda": "https://xdaforums.com/t/a14-rom-project-matrixx-v10-7-1-beryllium-unofficial.4691131/"
+            "xda": ""
 }
